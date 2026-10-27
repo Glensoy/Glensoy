@@ -4,6 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWERSHELL-012456?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/NETWORKING-005571?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/CYBERSECURITY-E34F26?style=for-the-badge&logo=security&logoColor=white" />
@@ -13,10 +14,11 @@
 
 ## 🔭 About Me
 
-I am an Information Technology student passionate about computer networking, Linux systems administration, and foundational cybersecurity. I love finding repetitive manual tasks and writing automation scripts to solve them.
+I am an Information Technology student passionate about computer networking, Linux systems administration, and foundational cybersecurity. I love finding repetitive manual tasks and writing automation scripts (Python, PowerShell, and Batch) to solve them.
+
 
 - 🌱 I’m currently wrapping up **Networking Fundamentals** and **Cybersecurity**.
-- 🎯 My current goal is building resume-ready networking and automation projects using Python.
+- 🎯 My current goal is building resume-ready networking and automation projects using Python and cross-platform scripting.
 
 ---
 
@@ -33,7 +35,7 @@ I am an Information Technology student passionate about computer networking, Lin
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Batch](https://img.shields.io/badge/Batch-454545?style=flat&logo=windows&logoColor=white) |
 | **Networking & Systems** | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87D37C?style=flat&logo=linuxmint&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-005571?style=flat&logo=cisco&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183693?style=flat&logo=virtualbox&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
@@ -41,14 +43,18 @@ I am an Information Technology student passionate about computer networking, Lin
 
 ## 🚀 Featured Projects
 
+- **[ghosthost](https://github.com/Glensoy/ghosthost)** – A Windows automation utility featuring PowerShell and Batch scripts designed for streamlined system administration and host file management.
+- **[Web-Based HRIS with SMS Integration](https://github.com/Glensoy/Web-Based-Human-Resource-Information-System-with-SMS-Integration)** – A full-stack human resource information system application featuring automated SMS notifications.
+
 ---
 
 ## 📚 Certifications & Coursework
 
-* **Introduction to Cybersecurity** – Cisco Networking Academy (NetAcad)
-* **Networking Basics** – Cisco Networking Academy (NetAcad)
-* **Python Essentials 1 & 2** – Cisco Networking Academy (NetAcad)
-* **IT Customer Supprt Basics** – Cisco Networking Academy (NetAcad)
+
+- **Introduction to Cybersecurity** – Cisco Networking Academy (NetAcad)
+- **Networking Basics** – Cisco Networking Academy (NetAcad)
+- **Python Essentials 1 & 2** – Cisco Networking Academy (NetAcad)
+- **IT Customer Support Basics** – Cisco Networking Academy (NetAcad)
 
 ---
 
