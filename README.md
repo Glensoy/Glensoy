@@ -1,4 +1,4 @@
-# Hi, I'm Glenmark! 👋
+# Hi, I'm Glenmark! 👋.
 
 ### IT Student | Aspiring Network & Cybersecurity Specialist
 
@@ -15,7 +15,7 @@
 
 I am an Information Technology student passionate about computer networking, Linux systems administration, and foundational cybersecurity. I love finding repetitive manual tasks and writing automation scripts to solve them.
 
-- 🌱 I’m currently wrapping up **Networking Fundamentals** and **Ethical Hacking**.
+- 🌱 I’m currently wrapping up **Networking Fundamentals** and **Cybersecurity**.
 - 🎯 My current goal is building resume-ready networking and automation projects using Python.
 
 ---
