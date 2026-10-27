@@ -34,7 +34,7 @@ I am an Information Technology student passionate about computer networking, Lin
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Networking & Systems** | ![Linux]([(https://img.shields.io/badge/Linux_Mint-87D37C?style=flat&logo=linuxmint&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)) ![Cisco](https://img.shields.io/badge/Cisco-005571?style=flat&logo=cisco&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183693?style=flat&logo=virtualbox&logoColor=white) |
+| **Networking & Systems** | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87D37C?style=flat&logo=linuxmint&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-005571?style=flat&logo=cisco&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183693?style=flat&logo=virtualbox&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
