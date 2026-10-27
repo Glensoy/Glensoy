@@ -18,7 +18,7 @@ I am an Information Technology student passionate about computer networking, Lin
 
 
 - 🌱 I’m currently wrapping up **Networking Fundamentals** and **Cybersecurity**.
-- 🎯 My current goal is building resume-ready networking and automation projects using Python and cross-platform scripting.
+- 🎯 My current goal is building networking and automation projects using Python and cross-platform scripting.
 
 ---
 
