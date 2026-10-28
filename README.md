@@ -44,9 +44,6 @@ I am an Information Technology student passionate about computer networking, Lin
 
 ## 🚀 Featured Projects
 
-- **[ghosthost](https://github.com/Glensoy/ghosthost)** – A Windows automation utility featuring PowerShell and Batch scripts designed for streamlined system administration and host file management.
-- **[Web-Based HRIS with SMS Integration](https://github.com/Glensoy/Web-Based-Human-Resource-Information-System-with-SMS-Integration)** – A full-stack human resource information system application featuring automated SMS notifications.
-
 ---
 
 ## 📚 Certifications & Coursework
